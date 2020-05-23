@@ -2,7 +2,7 @@
 Coding Boot-camp Group Project #1
 
 ### Deployed via Git Hub Pages:
-https://robertalanis.github.io/Project-1/
+https://pamelac08.github.io/Bountiful-Books/
 
 ### Team Members:
 Scott Bayreder
